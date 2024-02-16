@@ -29,3 +29,7 @@ Null Hypothesis (H0): There is no significant relationship between the given fac
 5. Machine Learning Model Development: A machine learning model will be developed to predict the duration of unavailability for Velib rental bikes at specific stations. This predictive model will utilize historical data and various features to forecast the duration of unavailability, enabling proactive measures to improve service quality.
 
 6. Hypothesis Testing: The null hypothesis will be tested using statistical analysis techniques to determine the extent to which the given factors impact bike availability and the overall service quality of Velib rental bikes.
+
+## Data Sources 
+
+https://drive.google.com/drive/folders/1i6ocb8N4aNzQ6gZTrLp1MLFt8Ffiouun?usp=sharing
