@@ -3,9 +3,9 @@
 The Velib Service Quality Analysis project aims to investigate the service quality of Velib Rental Bikes in Paris. With the growing importance of sustainable transportation, Velib bikes provide a convenient and eco-friendly option for residents and visitors in Paris. However, concerns have been raised regarding the availability of bikes and docking stations, particularly in crowded areas, which can hinder the reliability and efficiency of the service. This project seeks to address these concerns by analyzing the factors influencing bike availability and assessing the overall service quality of Velib rental bikes.
 
 Sources: 
-https://www.bfmtv.com/paris/velos-manquants-abimes-defectueux-le-ras-le-bol-des-utilisateurs-de-velib-depuis-la-rentree_AV-202310100491.html
-https://www.slate.fr/story/255873/velib-paris-chaos-rentree-velos-libre-service-ile-de-france-demande-reseau-mobilite
-https://www.rtl.fr/actu/debats-societe/paris-pourquoi-les-velib-electriques-fonctionnels-sont-rares-depuis-plusieurs-jours-7900345931
+- https://www.bfmtv.com/paris/velos-manquants-abimes-defectueux-le-ras-le-bol-des-utilisateurs-de-velib-depuis-la-rentree_AV-202310100491.html
+- https://www.slate.fr/story/255873/velib-paris-chaos-rentree-velos-libre-service-ile-de-france-demande-reseau-mobilite
+- https://www.rtl.fr/actu/debats-societe/paris-pourquoi-les-velib-electriques-fonctionnels-sont-rares-depuis-plusieurs-jours-7900345931
 
 ## Problem Statement
 The primary questions this project seeks to answer are:
