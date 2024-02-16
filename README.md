@@ -8,7 +8,7 @@ Sources:
 - https://www.rtl.fr/actu/debats-societe/paris-pourquoi-les-velib-electriques-fonctionnels-sont-rares-depuis-plusieurs-jours-7900345931
 
 ## Problem Statement
-The primary questions this project seeks to answer are:
+The primary question this project seeks to answer are:
 
 Is the Velib service efficient enough to satisfy the demand for bike rentals?
 What factors influence the availability of Velib bikes at rental stations in Paris?
